@@ -1,4 +1,4 @@
-## Olá! Eu sou o Moisés Cézar 🖐️
+## Olá! Eu sou o Moisés Cézar . Apaixonado por tecnologia! 🖐️
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/moxe_vieira/)
 
@@ -21,4 +21,4 @@
    <img align="center" alt="FIGMA" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </div><br/>
 
-Apaixonado por tecnologia!
+
